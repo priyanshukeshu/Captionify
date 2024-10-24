@@ -5,3 +5,4 @@ numpy
 Pillow
 pickle-mixin
 transformers
+torch
