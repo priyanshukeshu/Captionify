@@ -6,3 +6,5 @@ Pillow
 pickle-mixin
 transformers
 torch
+os
+script
