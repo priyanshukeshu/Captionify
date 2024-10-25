@@ -1,10 +1,8 @@
 streamlit
-keras
-tensorflow
+keras==2.8.0
+tensorflow==2.8.0
+torch==1.11.0
 numpy
 Pillow
-pickle-mixin
 transformers
-torch
-os
 script
